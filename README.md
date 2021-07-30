@@ -1,2 +1,2 @@
-# contract-addresses
-active contract address
+# Alchemix Protocol contract addresses
+see json file

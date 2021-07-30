@@ -1,0 +1,20 @@
+{
+    "alusd": {
+        "alusd": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+        "alchemist": "0xc21D353FF4ee73C572425697f4F5aaD2109fe35b",
+        "alchemist-vault-adaptor": "0xb039eA6153c827e59b620bDCd974F7bbFe68214A",
+        "transmuter": "0xeE69BD81Bd056339368c97c4B2837B4Dc4b796E7",
+        "transmuter-vault-adaptor": "0x6Fe02BE0EC79dCF582cBDB936D7037d2eB17F661"
+    },
+    "aleth": {
+        "aleth": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+        "alchemist": "0xf8317BD5F48B6fE608a52B48C856D3367540B73B",
+        "alchemist-vault-adaptor": "0x546E6711032Ec744A7708D4b7b283A210a85B3BC",
+        "transmuter": "0x9FD9946E526357B35D95Bcb4b388614be4cFd4AC",
+        "transmuter-vault-adaptor": "0x6d75657771256C7a8CB4d475fDf5047B70160132"
+    },
+    "alcx": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+    "staking-pools": "0xAB8e74017a8Cc7c15FFcCd726603790d26d7DeCa",
+    "treasury": "0x8392F6669292fA56123F71949B52d883aE57e225",
+    "dev-multisig": "0x9e2b6378ee8ad2A4A95Fe481d63CAba8FB0EBBF9"
+}
